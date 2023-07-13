@@ -47,7 +47,7 @@ p {
 /*Encabezado*/
 /*------------------*/
 header {
-  background-image: url(/images/fondo3.jpg);
+  background-image: url(fondo3.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: top;
@@ -242,13 +242,13 @@ header .horarios-h {
   background-position: center;
 }
 .main .chef .container .col .slider .slide.foto1 {
-  background-image: url(/images/galeria3.jpg);
+  background-image: url(galeria3.jpg);
 }
 .main .chef .container .col .slider .slide.foto2 {
-  background-image: url(/images/galeria7.jpg);
+  background-image: url(galeria7.jpg);
 }
 .main .chef .container .col .slider .slide.foto3 {
-  background-image: url(/images/galeria4.jpg);
+  background-image: url(galeria4.jpg);
 }
 .main .eslogan {
   display: block;
